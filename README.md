@@ -208,7 +208,7 @@ TCP
     而是继续发送，窗口大小为4个段
     *流控制 为了防止接收端在高负载的情况下无法接受数据包，TCP提供一种机制可以让发送端根据接收端的实  
     接收能力控制发送的数据。 发送端主机会根据接收端主机的指示，对发送数据的量进行控制。  
-    ![Image text](https://raw.githubusercontent.com/963666666/-/master/%E7%AA%97%E5%8F%A3%E6%B5%81%E6%8E%A7.png)
+    ![Image text](https://raw.githubusercontent.com/963666666/-/master/image/%E7%AA%97%E5%8F%A3%E6%B5%81%E6%8E%A7.png)
     *拥塞控制 
     
 UDP
